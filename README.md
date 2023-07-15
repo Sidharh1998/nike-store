@@ -1,1 +1,1 @@
-DEPLOYEMNT LINK : https://app.netlify.com/sites/venerable-gaufre-0201cf/configuration/general
+DEPLOYEMNT LINK : https://venerable-gaufre-0201cf.netlify.app/
